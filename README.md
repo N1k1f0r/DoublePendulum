@@ -13,3 +13,5 @@ To enhance the visual appeal, the program allows users to change the color of th
 
 ## Images
 ![image](https://github.com/user-attachments/assets/d9c89563-6e33-4c4e-bb0a-043aa1a96efc)
+![image](https://github.com/user-attachments/assets/d390763e-f27c-4f5c-896f-48405767ae1a)
+
