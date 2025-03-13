@@ -1,0 +1,30 @@
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.exe.config
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.exe
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.pdb
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.AssemblyReference.cache
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.Form1.resources
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.Properties.Resources.resources
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.GenerateResource.cache
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.CoreCompileInputs.cache
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.exe
+X:\c#\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.pdb
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.exe.config
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.exe
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.pdb
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.AssemblyReference.cache
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.Form1.resources
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.Properties.Resources.resources
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.GenerateResource.cache
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.CoreCompileInputs.cache
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.exe
+C:\Users\rzewe\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.pdb
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.exe.config
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.exe
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\bin\Debug\Wahadlo_projekt.pdb
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.AssemblyReference.cache
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.Form1.resources
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.Properties.Resources.resources
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.GenerateResource.cache
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.exe
+C:\Users\Oem\OneDrive - Politechnika Krakowska im. Tadeusza Kościuszki\Sem3\.Net\Wahadlo_projekt\Wahadlo_projekt\Wahadlo_projekt\obj\Debug\Wahadlo_projekt.pdb
